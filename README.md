@@ -55,9 +55,9 @@ To get the most out of this book, it is recommended that you have a basic unders
 
 To set up your environment, install the necessary libraries using pip:
 
-bash
+```
 pip install numpy pandas matplotlib seaborn scikit-learn
-
+```
 
 ## Usage
 
