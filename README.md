@@ -63,10 +63,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 This book serves as a practical guide, providing code examples and exercises. You can follow along by running the code snippets in your Python environment.
 
-## Contributions
-
-Contributions are welcome! If you find any issues or would like to add new content, please feel free to open a pull request or submit an issue.
-
 
 ## Contact
 
