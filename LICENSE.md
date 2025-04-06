@@ -1,0 +1,1 @@
+This [Data Science HandBook](https://github.com/masterprg/Data-Science) © 2024 by [Mahdi Momeni](https://github.com/masterprg) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
