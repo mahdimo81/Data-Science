@@ -3,9 +3,9 @@
 
 Author: Mahdi Momeni  
 Email: momeni.mpost@gmail.com  
-Telegram: [@master_prg](https://t.me/master_prg)  
-LinkedIn: [masterprg](https://www.linkedin.com/in/masterprg)  
-GitHub: [masterprg](https://github.com/masterprg)  
+Telegram: [@mahdimo81](https://t.me/mahdimo81)  
+LinkedIn: [mahdimo81](https://www.linkedin.com/in/mahdimo81)  
+GitHub: [mahdimo81](https://github.com/mahdimo81)  
 
 ## Overview
 
